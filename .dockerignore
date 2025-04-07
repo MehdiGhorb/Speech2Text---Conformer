@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.vscode/
+data/
+models/
+audios/
+vosk-model-en-us-0.22-lgraph

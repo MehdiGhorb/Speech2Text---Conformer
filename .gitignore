@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+
+# Node
+audios/
+data/
+models/
+vosk-model-en-us-0.22-lgraph/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Others
+*.swp
+*.bak
+
+.devcontainer/
+.pytest_cache/

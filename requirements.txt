@@ -1,0 +1,12 @@
+torch
+torchaudio
+numpy
+matplotlib
+tqdm
+PyYAML
+jiwer
+tabulate
+vosk
+wave
+pandas
+pytest
