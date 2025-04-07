@@ -103,8 +103,9 @@ pytest tests/
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 
-[Add contribution guidelines here]
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
