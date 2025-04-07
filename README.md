@@ -1,4 +1,4 @@
-# Chat Bot
+# Speech To Text Implementation using Conformer Structure
 
 Speech2Text using Conformer structure - Training from Scratch
 
